@@ -1,0 +1,9 @@
+currency_converter==0.5.5
+CurrencyConverter==0.17.7
+discord.py==2.2.2
+google_api_python_client==2.86.0
+google_auth_oauthlib==1.0.0
+gspread==5.8.0
+protobuf==4.22.3
+telegram==0.0.1
+python-telegram-bot
